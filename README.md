@@ -3,4 +3,4 @@ This module is designed to resolve a Dalvik issue in some GSI custom ROMs that o
 
 <h4> How to use </h4>
 <h5>1. Flash this module through Magisk</h5>
-<h5> Reboot your device </h5>
+<h5>2. Reboot your device </h5>
