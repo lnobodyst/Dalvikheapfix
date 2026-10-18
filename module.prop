@@ -1,0 +1,6 @@
+id=dalvik_heap_fix_a23
+name=Samsung A23 5G Dalvik Heap Fix (384M)
+version=v1.0
+versionCode=1
+author=Customized
+description=Modul khusus RAM 6GB untuk mengubah Dalvik Heap growthlimit ke 384M agar Genshin Impact dan game berat tidak crash.
